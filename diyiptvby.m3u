@@ -37,8 +37,9 @@ https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
 https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 #EXTINF:-1 tvg-name="Retro" tvg-logo="https://i.imgur.com/6bumA2O" tvg-id="" group-title="Uzbekistan",Retro
 https://st2.mediabay.tv/RetroTV/playlist.m3u8
-#EXTINF:-1 tvg-name="ТНТ Music" tvg-logo="https://i.imgur.com/a1GYdMr" tvg-id="" group-title="Russia",ТНТ Music
+#EXTINF:-1 tvg-name="ТНТ Music" tvg-logo="https://i.imgur.com/a1GYdMr.png" tvg-id="THTMusic.ru" group-title="Russia",ТНТ Music
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+
 
 
 
