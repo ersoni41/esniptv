@@ -47,5 +47,8 @@ https://132544.edgevideo.ru/streams/132544_932351/1325441080/index.m3u8
 https://otv.wotom.net/rmusic/stream.m3u8
 #EXTINF:-1 tvg-name="VIVA Russia" tvg-logo="https://i.imgur.com/tiYLzHO.png" tvg-id="vivarussia.ru" group-title="Russia",VIVA Russia
 https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 tvg-name="VIVA Plus" tvg-logo="https://i.imgur.com/cTZlaTJ.png" tvg-id="vivaplus.ru" group-title="Russia",VIVA Plus
+https://fl1001.bozztv.com/ushba-t2/playlist.m3u8
 #EXTINF:-1 tvg-name="4FunTV" tvg-logo="https://i.imgur.com/P8SuPCi.png" tvg-id="4FunTV.pl" group-title="Poland",4FunTV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
