@@ -39,6 +39,8 @@ https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
 https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 #EXTINF:-1 tvg-name="Retro" tvg-logo="https://i.imgur.com/6bumA2O.jpeg" tvg-id="" group-title="Uzbekistan",Retro
 https://st2.mediabay.tv/RetroTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Пятница" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg/330px-%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg.png" tvg-id="Пятница.ru" group-title="Russia",Пятница
+https://streaming.televizor-24-tochka.ru/live/19.m3u8
 #EXTINF:-1 tvg-name="ТНТ Music" tvg-logo="https://i.imgur.com/a1GYdMr.png" tvg-id="THTMusic.ru" group-title="Russia",ТНТ Music
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 #EXTINF:-1 tvg-name="TMF RUS" tvg-logo="https://i.imgur.com/7ihAtnO.png" tvg-id="tmfrus.ru" group-title="Russia",TMF RUS
@@ -51,4 +53,7 @@ https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 https://fl1001.bozztv.com/ushba-t2/playlist.m3u8
 #EXTINF:-1 tvg-name="4FunTV" tvg-logo="https://i.imgur.com/P8SuPCi.png" tvg-id="4FunTV.pl" group-title="Poland",4FunTV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-
+#EXTINF:-1 tvg-name="Hi Dance" tvg-logo="https://i.imgur.com/jOegzIV.jpeg" tvg-id="hidance.pl" group-title="Poland",Hi Dance
+https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
+#EXTINF:-1 tvg-name="Mooz Dance" tvg-logo="https://i.imgur.com/8MBxM3J.png" tvg-id="moozdance.ro" group-title="Romania",Mooz Dance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
